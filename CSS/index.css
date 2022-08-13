@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'harlow';
+    src: url(../webfonts/HARLOWSI_1.woff);
+}
+body{
+    font-family: 'harlow';
+    background-image: url(../Images/1181613912e1c3f47fdf1c5ca3e0264b.gif);
+}
+button:hover{
+    color: white !important;
+}
+.visit:hover{
+    color: white !important;
+}
+.form-div{
+    border: 5px orange;
+    border-style:solid none;
+}
+.form-control{
+    border: none !important;
+    outline: none !important;
+    border-bottom: 5px solid orange !important;
+}
+
+.buttons{
+    margin-top: 50px;
+}
+
+.resultDiv{
+    border: 5px solid orange;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#resultBox{
+    border-bottom: 5px solid orange;
+    padding: 50px 0;
+}
+
